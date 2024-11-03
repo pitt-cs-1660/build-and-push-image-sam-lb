@@ -38,7 +38,7 @@ jobs:
          context: ./
          file: ./Dockerfile
          push: true
-         tags: us-central1-docker.pkg.dev/proj3-440621/my-repo/node-demo:test
+         tags: us-central1-docker.pkg.dev/proj3-440621/my-repo/node-demo:test # changed nothing but added permissions
 
 # @note: you can use regular docker commands instead of the shared action
 #      - name: Build and Push Without Buildx

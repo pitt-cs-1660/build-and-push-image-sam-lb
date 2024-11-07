@@ -1,0 +1,7 @@
+TimeSeries ID,workload_identity_federation/count.iam.googleapis.com/WorkloadIdentityPoolProvider.ALIGN_RATE.REDUCE_SUM.metric.type="iam.googleapis.com/workload_identity_federation/count" metric.label."result"="success" resource.type="iam.googleapis.com/WorkloadIdentityPoolProvider" .pool_id:github3.project_id:proj3-440621
+project_id,proj3-440621
+pool_id,github3
+Wed Nov 06 2024 20:10:00 GMT-0500 (Eastern Standard Time),0.013333333333333334
+Wed Nov 06 2024 20:20:00 GMT-0500 (Eastern Standard Time),0.013333333333333334
+Wed Nov 06 2024 20:50:00 GMT-0500 (Eastern Standard Time),0.013333333333333334
+Wed Nov 06 2024 21:10:00 GMT-0500 (Eastern Standard Time),0.013333333333333334
